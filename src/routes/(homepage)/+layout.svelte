@@ -12,7 +12,7 @@
 	let filteredResult = null;
 
 	function filterFunction() {
-		console.log("Filter value inside function:", filterValue); // Debug statement
+		console.log("Filter value inside function:", filterValue); 
 		filteredResult = introduction.find(item =>
 			item.text.toLowerCase().includes(filterValue.toLowerCase())
 		);
@@ -22,7 +22,6 @@
 		}
 	}
 
-	// Reactive statement to log the filteredResult whenever it changes
 </script>
 
 <!-- Navbar -->

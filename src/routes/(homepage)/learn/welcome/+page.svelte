@@ -56,7 +56,7 @@
   </main>
 
   <!-- Right Sidebar -->
-<aside class=" top-24 col-span-2 h-max border-l border-gray-200 bg-gray-50 p-6">
+<aside class=" sticky top-24 col-span-2 h-max border-l border-gray-200 bg-gray-50 p-6">
     <div class="flex flex-col gap-2 text-sm">
       <h2 class="mb-2 text-lg font-bold text-gray-900">On this page</h2>
       <ul class="space-y-1">
